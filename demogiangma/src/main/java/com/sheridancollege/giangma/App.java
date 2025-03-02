@@ -1,7 +1,7 @@
 package com.sheridancollege.giangma;
 
 /**
- * New messesage to test github atcions
+ * Hello world! - Test github actions with push command 
  *
  */
 
